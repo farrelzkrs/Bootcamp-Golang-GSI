@@ -1,0 +1,4 @@
+- Go-Lang adalah perkembangan bahasa C yang dirilis open source pada tahun 2009 dan menjadi populer sejak tahun 2011 untuk membuat Docker.
+- Go-Lang digunakan sebagai teknologi code terbaru menggantikan C untuk membuat Kubernetes, Prometheus, CockroachDB, dan lain-lain.
+- Lebih seringnya digunakan dalam pembuatan Backend API di Microservices.
+- Proses dimulai dari code dengan format main.go -> compile & run / compile -> run binary file
