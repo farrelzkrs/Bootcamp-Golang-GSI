@@ -1,0 +1,3 @@
+- Letakkan project ke dalam folder src.
+- Simpan juga route environment ke dalam GOPATH
+- Selain cara di atas, gunakan "go mod init (nama)" di dalam folder parent
