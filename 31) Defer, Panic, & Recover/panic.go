@@ -15,5 +15,5 @@ func runApp2(error bool) {
 }
 
 func main() {
-	runApp2(true)
+	runApp2(false)
 }

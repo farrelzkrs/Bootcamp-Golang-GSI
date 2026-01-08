@@ -14,5 +14,5 @@ func runApp1(val int) {
 }
 
 func main() {
-	runApp1(10)
+	runApp1(0)
 }
