@@ -25,6 +25,7 @@ func Data() {
 		fmt.Printf("Masukkan nama (Ketik . untuk keluar): ")
 		fmt.Scanf("%s", &cin)
 		data.PushBack(cin)
+		fmt.Println()
 	}
 
 	fmt.Println("\nData depan:", data.Front().Value)
